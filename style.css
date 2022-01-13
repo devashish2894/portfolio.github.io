@@ -185,15 +185,15 @@ span a{text-decoration: none;color: rgb(26, 26, 134);}
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    flex-wrap: wrap;
+    flex-wrap: wrap !important;
 }
 .inlinks ul{
-    margin-left: 100px;
+    margin-left: 111px;
 }
 .inlinks ul li {
     list-style: none;
     float: left;
-    margin-right: 174px;
+    margin-right: 88px;
 }
 .inlinks ul li a{
     text-decoration: none;
