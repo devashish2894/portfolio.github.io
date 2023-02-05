@@ -215,6 +215,41 @@ span a{text-decoration: none;color: rgb(26, 26, 134);}
     
 }
 
+.mobiledisplay{
+    width: 100%;
+    padding: 0 15px;
+    margin: 180px 0;
+}
+.mobiledisplay h2{
+    margin: 20px 0;
+    text-align: center;
+}
+
+.pan1{
+    width: 100%;
+    
+}
+.pan1 img{
+    height: 700px;
+    display: block;
+    margin: 0 auto;
+}
+.giffbut{
+    width: 210px;
+    height: 50px;
+    background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+    border: 0;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 10px;
+    cursor: pointer;
+    position: relative;
+    top: -24px;
+    display: block;
+    margin: 0 auto;
+}
+
 
 
 
@@ -278,8 +313,8 @@ span a{text-decoration: none;color: rgb(26, 26, 134);}
     width: 100%;
     padding-top: 20px;
     text-align: center;
-    margin-top: 81rem;
-    /* margin-bottom: -26rem; */
+    margin-top: 6rem;
+    margin-bottom: 3rem;
     }
 
     .li2{
@@ -315,5 +350,31 @@ span a{text-decoration: none;color: rgb(26, 26, 134);}
         height: 17vh;
         width: 100%;
     }
+
+    .pan1 img{
+        height: 210px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .giffbut{
+        width: 150px;
+        height: 40px;
+        background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+        border: 0;
+        color: white;
+        font-size: 16px;
+        font-weight: 400;
+        border-radius: 10px;
+        cursor: pointer;
+        position: relative;
+        top: -24px;
+        display: block;
+        margin: 0 auto;
+    }
+    .mobiledisplay{
+        width: 100%;
+        padding: 0 15px;
+        margin-top: 1480px;}
 
 }
